@@ -1,8 +1,4 @@
 #Demo Project README
 
-This is a simple readme file
-
-## Heading 2
-
-this is bound to cause trouble something need to be added
+updated this line from the browser
 
